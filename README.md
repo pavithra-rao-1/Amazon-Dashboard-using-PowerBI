@@ -54,13 +54,12 @@ The final product combines **4 separate dashboard screens** into one cohesive ex
 ## **How to Add Screenshots**
 Include images of the dashboard at relevant sections:
 - **Overview Dashboard**: High-level metrics snapshot.
-  ![Overview Dashboard]("C:\Users\pavit\OneDrive\Pictures\Screenshots\Screenshot 2025-01-10 164038.png")
-- **Product Performance Dashboard**: Tooltip and product-specific view.
-  ![Product Performance Dashboard]("C:\Users\pavit\OneDrive\Pictures\Screenshots\Screenshot 2025-01-10 164126.png")
-- **Product View Dashboard**: Time-series analysis of sales.
-  ![Product View Dashboard]("C:\Users\pavit\OneDrive\Pictures\Screenshots\Screenshot 2025-01-10 164154.png")
-
-![Screenshot 2025-01-10 164038](https://github.com/user-attachments/assets/eaea2f80-41ae-4d5c-be85-049b139034a9)
+  ![Overview Dashboard](https://github.com/user-attachments/assets/6319151e-ed5b-4a33-8fbe-60eb6a5623b9)
+- **Product Performance Dashboard**: Time-series analysis of sales.
+  ![Product Performance Dashboard](https://github.com/user-attachments/assets/1d464bb9-f84b-455d-a197-0802be9d309c)
+- **Product View Dashboard**: Tooltip and product-specific view.
+  ![Product View Dashboard](https://github.com/user-attachments/assets/f6d619ae-9785-43e3-b54b-ce38d0fb2081)
+  ![Product View Dashboard](https://github.com/user-attachments/assets/b1f5f728-1422-4947-bede-e2be5462c8d5)
 
 ---
 
