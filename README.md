@@ -55,16 +55,16 @@ The final product combines **4 separate dashboard screens** into one cohesive ex
 Include images of the dashboard at relevant sections:
 - **Overview Dashboard**: High-level metrics snapshot.
   
-  <img src="https://github.com/user-attachments/assets/6319151e-ed5b-4a33-8fbe-60eb6a5623b9" alt="Overview Dashboard" width="700">
+  <img src="https://github.com/user-attachments/assets/6319151e-ed5b-4a33-8fbe-60eb6a5623b9" alt="Overview Dashboard" width="600">
 
 - **Product Performance Dashboard**: Time-series analysis of sales.
 
-  <img src="https://github.com/user-attachments/assets/1d464bb9-f84b-455d-a197-0802be9d309c" alt="Product Performance Dashboard" width="700">
+  <img src="https://github.com/user-attachments/assets/1d464bb9-f84b-455d-a197-0802be9d309c" alt="Product Performance Dashboard" width="600">
 
 - **Product View Dashboard**: Tooltip and product-specific view.
   
-  <img src="https://github.com/user-attachments/assets/f6d619ae-9785-43e3-b54b-ce38d0fb2081" alt="Product View Dashboard" width="700">
-  <img src="https://github.com/user-attachments/assets/b1f5f728-1422-4947-bede-e2be5462c8d5" alt="Product View Dashboard" width="700">
+  <img src="https://github.com/user-attachments/assets/f6d619ae-9785-43e3-b54b-ce38d0fb2081" alt="Product View Dashboard" width="600">
+  <img src="https://github.com/user-attachments/assets/b1f5f728-1422-4947-bede-e2be5462c8d5" alt="Product View Dashboard" width="600">
 
 ---
 
